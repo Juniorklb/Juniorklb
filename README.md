@@ -2,9 +2,7 @@
 </h1>
 
 <h2>🎯 Objectives </h2>
-I am a recent certified cybersecurity analyst with a profound interest in technology and a dedication to solving complex problems.
-
-My journey in Computer science has sparked a deep passion in me for cloud computing and cybersecurity security analyst. My goal is now to join a team as a cloud engineer.
+I am a recently certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS, Azure, and Google Cloud. My goal is to join a dynamic team as a cloud engineer, where I can apply my skills and contribute to building secure, scalable, and efficient cloud solutions.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
