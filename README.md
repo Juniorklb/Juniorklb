@@ -1,4 +1,4 @@
-<h1>Hi, I'm Junior Kalomba! <br/><a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/">Cloud engineer</a> & <a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/">Cybersecurity analyst</a> </a>
+<h1>Hi, I'm Junior Kalomba! <br/><a href="https://github.com/juniorklb">Cloud engineer</a> & <a href="https://github.com/juniorklb">Cybersecurity analyst</a> </a>
 </h1>
 
 <h2>🎯 Objectives </h2>
