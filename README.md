@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Monitoring Project on AWS</b>
+- <b>Security Monitoring Project on AWS </b><a href="https://github.com/Juniorklb/Security-Monitoring-Project-on-AWS/blob/main/README.md</a>
   - 
 - <b>Threat Analysis Report Amazon GuardDuty</b>
   - 
