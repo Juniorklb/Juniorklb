@@ -10,18 +10,19 @@ I am a recently certified cybersecurity analyst with a strong passion for techno
   - 
 - [Threat Analysis Report Amazon GuardDuty](https://github.com/Juniorklb/Amazon-GuardDuty/edit/main/README.md)
   - 
-<h2>👨‍💻 Cloud Projects with AWS:</h2>
+<h2>AWS Cloud projects:</h2>
 
 - <b>AWS EC2 private servers</b>
 
-<h2> Certifications:</h2>
+<h2>Google cloud projects:</h2>
 
-[Google cybersecurity certificate](https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5)
+<h2>Azure projects:</h2>
 
-<h2>📺 Project video </h2>
+<h2>📜 Certifications:</h2>
 
-[Cybersecurity and cloud projets](https://www.youtube.com/@juniorkalomba3647)
-
+- <b>[✅☁️Google cybersecurity certificate](https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5)</b>
+- <b>☁️ AWS Cloud solution architect associate (In Progress)<img src="aws-logo.png" alt="AWS Logo" width="50"/>
+</b>
 <h2>  Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
