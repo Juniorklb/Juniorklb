@@ -25,7 +25,7 @@
 
 
 
-[youtube]: https://www.youtube.com/c/@juniorkalomba3647
+[YouTube]: https://www.youtube.com/c/@juniorkalomba3647
 [linkedin]: https://linkedin.com/in/Juniorkalomba
 
 <!--
