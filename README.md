@@ -2,7 +2,8 @@
 </h1>
 
 <h2>🎯 Objectives </h2>
-I am a recently certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS, Azure, and Google Cloud. My goal is to join a dynamic team as a cloud engineer, where I can apply my skills and contribute to building secure, scalable, and efficient cloud solutions.
+I am a recent certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS, Azure, and Google Cloud. My goal is to join a dynamic team as a cloud engineer, where I can apply my skills and contribute to building secure, scalable, and efficient cloud solutions.   
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -10,13 +11,13 @@ I am a recently certified cybersecurity analyst with a strong passion for techno
   - 
 - [Threat Analysis Report Amazon GuardDuty](https://github.com/Juniorklb/Amazon-GuardDuty/edit/main/README.md)
   - 
-<h2>AWS Cloud projects:</h2>
+<h2>☁️AWS Cloud projects:</h2>
 
-- <b>AWS EC2 private servers</b>
+- <b>AWS EC2 instances (in progress)</b>
 
-<h2>Google cloud projects:</h2>
+<h2>☁️Google cloud projects:</h2>
 
-<h2>Azure projects:</h2>
+<h2>☁️Azure projects:</h2>
 
 <h2>📜 Certifications:</h2>
 
