@@ -1,6 +1,10 @@
 <h1>Hi, I'm Junior Kalomba! <br/><a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/">Cloud engineer</a>, <a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/">Cybersecurity analyst</a> </a>
 </h1>
 
+<h2>🎯 Objectives </h2>
+I am a recent certified cybersecurity analyst with a profound interest in technology and a dedication to solving complex problems.
+
+My journey in Computer science has sparked a deep passion in me for cloud computing and cybersecurity security analyst. My goal is now to join a team as a cloud engineer.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
