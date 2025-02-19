@@ -4,7 +4,7 @@
 
 - [Security Monitoring Project on AWS](https://github.com/Juniorklb/Security-Monitoring-Project-on-AWS/blob/main/README.md)
   - 
-- <b>Threat Analysis Report Amazon GuardDuty</b>
+- [Threat Analysis Report Amazon GuardDuty]
   - 
 <h2>👨‍💻 Cloud Projects with AWS:</h2>
 
