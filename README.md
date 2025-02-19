@@ -21,7 +21,8 @@ I am a recently certified cybersecurity analyst with a strong passion for techno
 <h2>📜 Certifications:</h2>
 
 - <b>[✅☁️Google cybersecurity certificate](https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5)</b>
-- <b>☁️ AWS Cloud solution architect associate (In Progress)<img src="aws-logo.png" alt="AWS Logo" width="50"/>
+- <b>☁️ AWS Cloud solution architect associate (In Progress)
+
 </b>
 <h2>  Connect with me:</h2>
 
