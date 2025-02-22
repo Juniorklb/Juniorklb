@@ -1,8 +1,8 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Junior Kalomba</h1>
-<h1 align="center"><br/><a href="https://github.com/juniorklb">Cloud engineer</a> & <a href="https://github.com/juniorklb">Cybersecurity analyst</a> </a>
-</h1>
+<h3 align="center"><br/><a href="https://github.com/juniorklb">Cloud engineer</a> & <a href="https://github.com/juniorklb">Cybersecurity analyst</a> </a>
+</h3>
 
 <h2>🎯 Objectives </h2>
 I am a recent certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS, Azure, and Google Cloud. My goal is to join a dynamic team as a cloud engineer, where I can apply my skills and contribute to building secure, scalable, and efficient cloud solutions.   
