@@ -7,7 +7,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Security Monitoring Project on AWS](https://github.com/Juniorklb/Security-Monitoring-Project-on-AWS/blob/main/README.md)
+- [AWS Security Monitoring Project](https://github.com/Juniorklb/Security-Monitoring-Project-on-AWS/blob/main/README.md)
   - 
 - [Threat Analysis Report Amazon GuardDuty](https://github.com/Juniorklb/Amazon-GuardDuty/edit/main/README.md)
   - 
