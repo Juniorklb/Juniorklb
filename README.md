@@ -29,9 +29,10 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 </b>
 <h2>👥 Connect with me:</h2>
+<a href="https://linkedin.com/in/junior-kalomba-10002a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junior-kalomba-10002a18a" height="30" width="40" /></a
 
 
-<a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
