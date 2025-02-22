@@ -27,12 +27,12 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 </b>
 <h2>👥 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 <a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
-[YouTube]: https://www.youtube.com/c/@juniorkalomba3647
+
 [linkedin]: https://linkedin.com/in/Juniorkalomba
 
 <!--
