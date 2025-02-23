@@ -18,7 +18,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 - <b>AWS EC2 instances (in progress)</b>
 
-<h2><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> Google cloud projects:</h2>
+<h2><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> Google cloud projects:</h2>
 
 <h2>☁️Azure projects:</h2>
 
