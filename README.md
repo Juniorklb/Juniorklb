@@ -1,6 +1,12 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Junior Kalomba</h1>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Junior+Kalomba;">
+
+</p>
+
 <h3 align="center"><br/><a href="https://github.com/juniorklb">Cloud engineer</a> & <a href="https://github.com/juniorklb">Cybersecurity analyst</a> </a>
 </h3>
 
