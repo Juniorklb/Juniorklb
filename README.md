@@ -1,5 +1,6 @@
 
 <img src="https://github.com/Juniorklb/Juniorklb/blob/0975cb3b0dcf42f65373d3b9e5d4ced7f1389c2c/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif">
+
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Junior+Kalomba;">
