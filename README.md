@@ -24,7 +24,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 - <b>AWS EC2 instances (in progress)</b>
 
-<h3><a href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google cloud projects:</h3>
+<h3><a href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google Cloud projects:</h3>
 
 <h3>☁️Azure projects:</h3>
 
