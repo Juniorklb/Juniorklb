@@ -14,7 +14,7 @@
 I am a recent certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS, Azure, and Google Cloud. My goal is to join a dynamic team as a cloud engineer, where I can apply my skills and contribute to building secure, scalable, and efficient cloud solutions.   
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
-<h3><a href="https://github.com/Juniorklb/Cybersecurity-projects">👨‍💻 Cybersecurity Projects</h3>
+<h3><a href="https://github.com/Juniorklb/Cybersecurity-projects-">👨‍💻 Cybersecurity Projects</h3>
 
 <h3><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects</h3>
 
