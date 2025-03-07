@@ -20,11 +20,11 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
   
 - <a href="https://github.com/Juniorklb/AWS-iam-role-analyzer">AWS-iam-role-analyzer</a>
-<h3>☁️AWS Cloud projects:</h3>
+<h3><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects:</h3>
 
 - <b>AWS EC2 instances (in progress)</b>
 
-<h3><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️Google cloud projects:</h3>
+<h3><a href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google cloud projects:</h3>
 
 <h3>☁️Azure projects:</h3>
 
