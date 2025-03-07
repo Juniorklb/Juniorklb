@@ -16,10 +16,6 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
 <h3><a href="https://github.com/Juniorklb/Cybersecurity-projects-">👨‍💻 Cybersecurity Projects:</h3>
 
-- <a href="https://github.com/Juniorklb/Security-Monitoring-Project-on-AWS/blob/main/README.md">AWS Security Monitoring Project</a>
-
-  
-- <a href="https://github.com/Juniorklb/AWS-iam-role-analyzer">AWS-iam-role-analyzer</a>
 <h3><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects:</h3>
 
 - <b>AWS EC2 instances (in progress)</b>
