@@ -17,11 +17,11 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 <h3><a href="https://github.com/Juniorklb/Cybersecurity-projects-">👨‍💻 Cybersecurity Projects</h3>
   
-<h3><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects</h3>
+<h3><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects</h3> 
 
-<h3><a href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google Cloud projects</h3>
+<h3><a "href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google Cloud projects (in progress)</h3> 
 
-<h3><a href="https://github.com/Juniorklb/Azure-Cloud-projects">☁️Azure Cloud projects</h3>
+<h3><a "href="https://github.com/Juniorklb/Azure-Cloud-projects">☁️Azure Cloud projects (in progress) </h3> 
 
 <h3>📜 Certifications:</h3>
 
