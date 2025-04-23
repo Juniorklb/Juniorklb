@@ -23,7 +23,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 <h4><a "href="https://github.com/Juniorklb/Azure-projects">☁️Azure Cloud projects (in progress) </h4>
 
-<h4><a "href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google Cloud projects (planning to work on it in the future)</h4> 
+<h4><a "href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google Cloud projects (in progress)</h4> 
 
 
 <h2>📜 Certifications:</h2>
