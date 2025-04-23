@@ -16,20 +16,20 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
 
   
-<h3><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects</h3> 
+<h4><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects</h4> 
 
-<h3><a href="https://github.com/Juniorklb/Cybersecurity-projects-">👨‍💻 Cybersecurity Projects</h3>
+<h4><a href="https://github.com/Juniorklb/Cybersecurity-projects-">👨‍💻 Cybersecurity Projects</h4>
 
-<h3><a "href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google Cloud projects (in progress)</h3> 
+<h4><a "href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google Cloud projects (in progress)</h4> 
 
-<h3><a "href="https://github.com/Juniorklb/Azure-Cloud-projects">☁️Azure Cloud projects (in progress) </h3> 
+<h4><a "href="https://github.com/Juniorklb/Azure-Cloud-projects">☁️Azure Cloud projects (in progress) </h4> 
 
 <h2>📜 Certifications:</h2>
 
-- <b>[✅☁️Google cybersecurity certificate](https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5)</b>
-- <h3><a href="https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5">☁️Google cybersecurity certificate</h3>
-- <b>☁️ AWS Cloud solution architect associate (In Progress)
-- <b>☁️ Azure Administrator associate (In Progress)
+- <h4><a href="https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5">☁️Google cybersecurity certificate</h4>
+- <h4>☁️ AWS Cloud solution architect associate (In Progress)</h4>
+- <h4>☁️ Azure Administrator associate (In Progress)</h4>
+  
 </b>
 <h2>👥 Connect with me:</h2>
 <a href="https://linkedin.com/in/junior-kalomba-10002a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junior-kalomba-10002a18a" height="30" width="40" /></a
