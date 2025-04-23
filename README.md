@@ -24,9 +24,10 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 <h3><a "href="https://github.com/Juniorklb/Azure-Cloud-projects">☁️Azure Cloud projects (in progress) </h3> 
 
-<h3>📜 Certifications:</h3>
+<h2>📜 Certifications:</h2>
 
 - <b>[✅☁️Google cybersecurity certificate](https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5)</b>
+- <h3><a href="https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5">☁️Google cybersecurity certificate</h3>
 - <b>☁️ AWS Cloud solution architect associate (In Progress)
 - <b>☁️ Azure Administrator associate (In Progress)
 </b>
