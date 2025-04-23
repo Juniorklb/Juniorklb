@@ -28,7 +28,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 - <b>[✅☁️Google cybersecurity certificate](https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5)</b>
 - <b>☁️ AWS Cloud solution architect associate (In Progress)
-
+- <b>☁️ Azure Administrator associate (In Progress)
 </b>
 <h2>👥 Connect with me:</h2>
 <a href="https://linkedin.com/in/junior-kalomba-10002a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junior-kalomba-10002a18a" height="30" width="40" /></a
