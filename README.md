@@ -15,6 +15,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
 
+
   
 <h4><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects</h4> 
 
