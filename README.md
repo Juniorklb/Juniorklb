@@ -15,9 +15,10 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
 
-<h3><a href="https://github.com/Juniorklb/Cybersecurity-projects-">👨‍💻 Cybersecurity Projects</h3>
   
 <h3><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️AWS Cloud projects</h3> 
+
+<h3><a href="https://github.com/Juniorklb/Cybersecurity-projects-">👨‍💻 Cybersecurity Projects</h3>
 
 <h3><a "href="https://github.com/Juniorklb/Google-cloud-projects">☁️Google Cloud projects (in progress)</h3> 
 
@@ -38,17 +39,4 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 [linkedin]: https://linkedin.com/in/Juniorkalomba
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
