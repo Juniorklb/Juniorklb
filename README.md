@@ -31,6 +31,22 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 - <h4><a href="https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5">☁️Google cybersecurity certificate</h4>
 - <h4>☁️ AWS Cloud solution architect associate (In Progress)</h4>
 - <h4>☁️ Azure Administrator associate (In Progress)</h4>
+
+## 💼 Services I Offer
+
+| Service                         | Tech Used                                  |
+|--------------------------------|--------------------------------------------|
+| ☁️ Cloud Architecture          | AWS EC2, S3, RDS, VPC, ELB, Route53         |
+| 🔐 Cloud Security & Auditing   | IAM, CloudTrail, GuardDuty, Config          |
+| 🧾 Infrastructure as Code      | Terraform, AWS CDK                         |
+| 📊 Monitoring & Logging        | CloudWatch, CloudTrail, Splunk             |
+| 👥 Mentoring & Consultation    | Zoom, Google Meet, GitHub Projects         |
+
+
+
+
+
+
   
 </b>
 <h2>👥 Connect with me:</h2>
