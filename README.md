@@ -36,9 +36,10 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 <h2>👥 Connect with me:</h2>
 <a href="https://linkedin.com/in/junior-kalomba-10002a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junior-kalomba-10002a18a" height="30" width="40" /></a
 
-<a href="mailto:jrkalomba@gmail.com.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="jrkalomba@gmail.com" height="30" width="40" />
+<a href="mailto:jrkalomba@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="30" width="40" />
 </a>
+
 
 
 
