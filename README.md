@@ -7,7 +7,7 @@
 
 </p>
 
-<h3 align="center"><br/><a href="https://github.com/juniorklb">Cloud solution architect</a> & <a href="https://github.com/juniorklb">certified Cybersecurity analyst</a> </a>
+<h3 align="center"><br/><a href="https://github.com/juniorklb">Cloud solution architect</a> & <a href="https://github.com/juniorklb">Cybersecurity analyst</a> </a>
 </h3>
 
 <h2>🎯 Objectives </h2>
