@@ -18,7 +18,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 <h4><a href="https://github.com/Juniorklb/Azure-projects">. Windows server (in progress) </h4>
 
-[Windows server](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Windows server](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h4><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️ AWS Cloud projects</h4> 
 
