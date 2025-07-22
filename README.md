@@ -5,14 +5,16 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 <h2> Key Projects:</h2>
 
-- <b>AD (Building a windows server For small enterprise)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs) 
-  - [osTicket: Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config)
-  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle)
+- <b>Windows server(Active Directory / DNS Configuration) </b>
+  - [Windows Server Infrastructure Deployment](https://github.com/Juniorklb/windows-server) 
+  - [Active Directory with Group Policy (GPO)]()
+  - [Remote Desktop Services (RDS) Setup]()
 
+- <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) 
+  - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) 
 
-
-- [Windows Server Infrastructure Deployment](https://github.com/Juniorklb/windows-server) 
   
 <h4><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️ AWS Cloud projects</h4> 
 
