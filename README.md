@@ -17,7 +17,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 
 
-- [Windows Server Infrastructure Deployment](https://github.com/Juniorklb/Azure-projects) 
+- [Windows Server Infrastructure Deployment](https://github.com/Juniorklb/windows-server) 
   
 <h4><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️ AWS Cloud projects</h4> 
 
