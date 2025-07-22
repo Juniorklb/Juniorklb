@@ -11,7 +11,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
   - [Remote Desktop Services (RDS) Setup]()
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Juniorklb/Active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) 
   - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) 
 
