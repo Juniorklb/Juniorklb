@@ -15,6 +15,11 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) 
   - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) 
 
+
+- <b>AWS Projects </b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Juniorklb/Active-directory)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) 
+  - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) 
   
 <h4><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️ AWS Cloud projects</h4> 
 
