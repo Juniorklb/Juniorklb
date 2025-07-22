@@ -22,30 +22,18 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
   - [Configuring an AWS Cost Tracker App](https://github.com/Juniorklb/AWS-Cost-Tracker-App)
   - [Aws S3 lifecycle manager](https://github.com/Juniorklb/S3-Lifecycle-Manager)
   - [Creating a load balancer for a single EC2](https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance)
-  
-<h4><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️ AWS Cloud projects</h4> 
 
 <h2>📜 Certifications:</h2>
 
 - <h4><a href="https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5">☁️Google cybersecurity certificate</h4>
-- <h4>☁️ AWS Cloud solution architect associate (In Progress)</h4>
-- <h4>☁️ Azure Administrator associate (In Progress)</h4>
+- <h4>☁️ Microsoft AZ-104 (In Progress)</h4>
+- <h4>☁️ Microsoft AZ-500 (In Progress)</h4>
+- <h4>☁️ AWS solutions architect Associate( In Progress)</h4>
 
-## 💼 Services I Offer
+<h2>Thank You for Visiting My Page!</h2>
 
-| Service                         | Tech Used                                  |
-|--------------------------------|--------------------------------------------|
-| ☁️ Cloud Architecture          | AWS EC2, S3, RDS, VPC, ELB, Route53         |
-| 🔐 Cloud Security & Auditing   | IAM, CloudTrail, GuardDuty, Config          |
-| 🧾 Infrastructure as Code      | Terraform, AWS CDK                         |
-| 📊 Monitoring & Logging        | CloudWatch, CloudTrail, Splunk             |
-| 👥 Mentoring & Consultation    | Zoom, Google Meet, GitHub Projects         |
-
-
-
-
-
-
+<p>I'm currently looking for a great team to join, and I would love to hear from you.</p>
+<h2><a href="https://linkedin.com/in/Juniorkalomba">Let's Chat</a></h2>
   
 </b>
 <h2>👥 Connect with me:</h2>
