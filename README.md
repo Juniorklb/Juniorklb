@@ -1,4 +1,4 @@
-
+<h1>Hi, I'm Junior, an <a href="https://linkedin.com/in/evan-yearwood/">IT Professional.</a></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Junior+Kalomba;">
 
