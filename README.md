@@ -1,16 +1,14 @@
 <h1>Hi, I'm Junior, an <a href="https://linkedin.com/in/evan-yearwood/">IT Professional.</a></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Junior+Kalomba;">
-
-</p>
-
-<h3 align="center"><br/><a href="https://github.com/juniorklb">Cloud solution architect</a> & <a href="https://github.com/juniorklb">Cybersecurity analyst</a> </a>
-</h3>
-
 <h2>🎯 Objectives </h2>
-I am a recent certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS, Azure, and Google Cloud. My goal is to join a dynamic team as a cloud engineer, where I can apply my skills and contribute to building secure, scalable, and efficient cloud solutions.   
+I am a recent certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS and Azure. My goal is to join a dynamic team as a cloud engineer, where I can apply my skills and contribute to building secure, scalable, and efficient cloud solutions.   
 
+<h2> Key Projects:</h2>
 
+- <b>AD (Building a windows server For small enterprise)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs) 
+  - [osTicket: Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config)
+  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle)
 
 
 
