@@ -7,7 +7,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 - <b>Windows server(Active Directory / DNS Configuration) </b>
   - [Windows Server Infrastructure Deployment](https://github.com/Juniorklb/windows-server) 
-  - [Active Directory with Group Policy (GPO)]()
+  - [Active Directory with Group Policy (GPO)](https://github.com/Juniorklb/Active-directory-GPO)
   - [Remote Desktop Services (RDS) Setup]()
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
