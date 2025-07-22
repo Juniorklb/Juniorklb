@@ -1,7 +1,7 @@
 <h1>Hi, I'm Junior, an <a href="https://linkedin.com/in/evan-yearwood/">IT Professional.</a></h1>
 
 <h2>🎯 Objectives </h2>
-I am a recent certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS and Azure. My goal is to join a dynamic team as a cloud engineer, where I can apply my skills and contribute to building secure, scalable, and efficient cloud solutions.   
+I am a recent certified cybersecurity analyst with a strong passion for technology and problem-solving. My journey in computer science has deepened my interest in cloud computing and cybersecurity. I am currently expanding my expertise by learning to work with cloud platforms such as AWS and Azure. My goal is to join a dynamic team as a Syms Admin.   
 
 <h2> Key Projects:</h2>
 
