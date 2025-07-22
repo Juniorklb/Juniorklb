@@ -17,9 +17,10 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 
 - <b>AWS (Load balancer/S3 Bucket/EC2)</b>
-  - [Aws EC2 connect via SSH](https://github.com/Juniorklb/AWS-EC2-connect-via-SSH)
-  - [Aws CPU cloudwatch usage](https://github.com/Juniorklb/AWS-CPU-cloudwatch-usage-alert) 
-  - [Aws Cost Tracker App](https://github.com/Juniorklb/AWS-Cost-Tracker-App) 
+  - [Basic Aws EC2 connect via SSH](https://github.com/Juniorklb/AWS-EC2-connect-via-SSH)
+  - [Configuring CPU cloudwatch usage](https://github.com/Juniorklb/AWS-CPU-cloudwatch-usage-alert) 
+  - [Configuring an Aws Cost Tracker App](https://github.com/Juniorklb/AWS-Cost-Tracker-App)
+  - [Aws S3 lifecycle manager](https://github.com/Juniorklb/S3-Lifecycle-Manager)
   
 <h4><a href="https://github.com/Juniorklb/AWS-Cloud-projects">☁️ AWS Cloud projects</h4> 
 
