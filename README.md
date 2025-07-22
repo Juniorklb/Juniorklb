@@ -16,7 +16,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
   - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) 
 
 
-- <b>AWS Projects </b>
+- <b>AWS (Load balancer/S3 Bucket/EC2)</b>
   - [Aws EC2 connect via SSH](https://github.com/Juniorklb/AWS-EC2-connect-via-SSH)
   - [Aws CPU cloudwatch usage](https://github.com/Juniorklb/AWS-CPU-cloudwatch-usage-alert) 
   - [Aws Cost Tracker App](https://github.com/Juniorklb/AWS-Cost-Tracker-App) 
