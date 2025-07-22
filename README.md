@@ -17,7 +17,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 
 
 - <b>AWS Projects </b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Juniorklb/Active-directory)
+  - [AWS-EC2-connect-via-SSH](https://github.com/Juniorklb/AWS-EC2-connect-via-SSH)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols) 
   - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config) 
   
