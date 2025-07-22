@@ -33,7 +33,7 @@ I am a recent certified cybersecurity analyst with a strong passion for technolo
 <h2>Thank You for Visiting My Page!</h2>
 
 <p>I'm currently looking for a great team to join, and I would love to hear from you.</p>
-<h2><a href="https://linkedin.com/in/Juniorkalomba">Let's Chat</a></h2>
+<h2><a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/">Let's Chat</a></h2>
   
 </b>
 <h2>👥 Connect with me:</h2>
