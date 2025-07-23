@@ -1,5 +1,10 @@
 <h1>Hi, I'm Junior, an <a href="https://linkedin.com/in/evan-yearwood/">IT Professional.</a></h1>
 
+## 🎯 Objective
+Aspiring System Administrator skilled in Windows Server, Azure, and AWS. Focused on building secure, scalable, and efficient IT solutions.
+
+
+
 <h2> Key Projects:</h2>
 
 - <b>Windows server(Active Directory / DNS Configuration) </b>
