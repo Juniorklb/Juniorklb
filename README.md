@@ -1,4 +1,4 @@
-<h1>Hi, I'm Junior, an <a href="https://linkedin.com/in/evan-yearwood/">IT Professional.</a></h1>
+<h1>Hi, I'm Junior, an <a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/">IT Professional.</a></h1>
 
 ## 🎯 Objective
 Aspiring System Administrator skilled in Windows Server, Azure, and AWS. Focused on building secure, scalable, and efficient IT solutions.
