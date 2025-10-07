@@ -14,7 +14,7 @@ Aspiring System Administrator skilled in Windows Server, Azure, and AWS. Focused
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Juniorklb/Active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]() 
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Juniorklb/Network-Security-Groups) 
   - [Basic DNS Configuration & Testing]() 
 
 
