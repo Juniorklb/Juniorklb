@@ -28,7 +28,7 @@ Aspiring System Administrator skilled in Windows Server, Azure, and AWS. Focused
 <h2>📜 Certifications:</h2>
 
 - <h4><a href="https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5">☁️Google cybersecurity certificate</h4>
-- <h4><a [href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z38RFC59NE5S"> ☁️Google IT Support Professional Certificate</h4>
+- <h4><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z38RFC59NE5S"> ☁️Google IT Support Professional Certificate</h4>
 - <h4>☁️ Microsoft AZ-500 (In Progress)</h4>
 - <h4>☁️ AWS solutions architect Associate( In Progress)</h4>
 
