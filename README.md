@@ -24,7 +24,9 @@ Aspiring System Administrator skilled in Windows Server, Azure, and AWS. Focused
   - [Configuring an AWS Cost Tracker App](https://github.com/Juniorklb/AWS-Cost-Tracker-App)
   - [Aws S3 lifecycle manager](https://github.com/Juniorklb/S3-Lifecycle-Manager)
   - [Creating a load balancer for a single EC2](https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance)
-
+    
+- <b>CCNA (Load balancer/S3 Bucket/EC2)</b>
+  - [CCNA Switched LAN & Packet Analysis Lab](https://github.com/Juniorklb/Ccna-switched-lan-packet-analysis)
 <h2>📜 Certifications:</h2>
 
 - <h4><a href="https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5">☁️Google cybersecurity certificate</h4>
