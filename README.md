@@ -65,6 +65,13 @@ StayFlow AI explores practical AI automation for service businesses. I am develo
 
 [Visit StayFlow AI](https://stayflowai.ca/)
 
+### Heavenly Fashion — In Development
+
+A client website project for a sewing and fashion business. The goal is to create a refined digital storefront that presents the brand professionally, showcases custom work, and gives customers a simple path to inquire about services.
+
+**Planned solution:** responsive business website, service and portfolio showcase, customer inquiry flow, and future AI-assisted customer communication.
+
+
 ---
 
 ## Technical Skills
