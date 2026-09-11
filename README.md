@@ -1,59 +1,106 @@
-<h1>Hi, I'm Junior, an <a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/">IT Professional.</a></h1>
+# Hi, I'm Junior Kalomba
 
-## 🎯 Objective
-Aspiring System Administrator skilled in Windows Server, Azure, and AWS. Focused on building secure, scalable, and efficient IT solutions.
+### IT Support · Systems Administration · Networking · Azure · Cybersecurity
 
+I am an IT support professional based in Montréal, Canada, building hands-on expertise in Windows Server, enterprise networking, Microsoft Azure, and cybersecurity. I enjoy troubleshooting technical problems, documenting solutions, and building secure infrastructure labs that reflect real workplace environments.
 
+My long-term direction is **Azure Cloud Security Engineering**, and I am currently open to IT opportunities across **Canada and the United States**.
 
-<h2> Key Projects:</h2>
+[Portfolio](https://juniorkalomba.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/junior-kalomba-10002a18a/) · [StayFlow AI](https://stayflowai.ca/)
 
-- <b>Windows server(Active Directory / DNS Configuration) </b>
-  - [Windows Server Infrastructure Deployment](https://github.com/Juniorklb/windows-server) 
-  - [Active Directory with Group Policy (GPO)](https://github.com/Juniorklb/Active-directory-GPO)
-  - [Remote Desktop Services (RDS) Setup](https://github.com/Juniorklb/RDS/tree/main)
+---
 
-- <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Juniorklb/Active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Juniorklb/Network-Security-Groups) 
-  - [Basic DNS Configuration & Testing]() 
+## Featured Projects
 
+### Windows Server 2022 Enterprise Infrastructure
 
-- <b>AWS (Load balancer/S3 Bucket/EC2)</b>
-  - [Basic Aws EC2 connect via SSH](https://github.com/Juniorklb/AWS-EC2-connect-via-SSH)
-  - [Configuring CPU cloudwatch usage](https://github.com/Juniorklb/AWS-CPU-cloudwatch-usage-alert) 
-  - [Configuring an AWS Cost Tracker App](https://github.com/Juniorklb/AWS-Cost-Tracker-App)
-  - [Aws S3 lifecycle manager](https://github.com/Juniorklb/S3-Lifecycle-Manager)
-  - [Creating a load balancer for a single EC2](https://github.com/Juniorklb/Create-a-Load-Balancer-for-a-single-EC2-instance)
-    
-- <b>CCNA (Load balancer/S3 Bucket/EC2)</b>
-  - [CCNA Switched LAN & Packet Analysis Lab](https://github.com/Juniorklb/Ccna-switched-lan-packet-analysis)
-<h2>📜 Certifications:</h2>
+Deployed a simulated business environment with centralized identity, network services, policy enforcement, and role-based access.
 
-- <h4><a href="https://www.coursera.org/account/accomplishments/professional-cert/SKOVKYASX5V5">☁️Google cybersecurity certificate</h4>
-- <h4><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Z38RFC59NE5S"> ☁️Google IT Support Professional Certificate</h4>
-- <h4>☁️ Microsoft AZ-500 (In Progress)</h4>
-- <h4>☁️ AWS solutions architect Associate( In Progress)</h4>
+- Active Directory Domain Services
+- DNS and DHCP
+- Organizational Units and security groups
+- Group Policy Objects
+- NTFS and share permissions
+- Windows domain clients
 
-<h2>Thank You for Visiting My Page!</h2>
+[View the Windows Server project](https://github.com/Juniorklb/windows-server)
 
-<p>I'm currently looking for a great team to join, and I would love to hear from you.</p>
-<h2><a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/">Let's Chat</a></h2>
-  
-</b>
-<h2>👥 Connect with me:</h2>
+### CCNA Switched LAN & Packet Analysis
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junior-kalomba-10002a18a" height="30" width="40"/>  
-    
-  </a>
-  <a href="mailto:jrkalomba@gmail.com" target="_blank">
-  <img  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="30" width="40"/>
-</a>
-</p>
+Built a three-host LAN using a Cisco 2960 switch and observed ARP, ICMP, MAC learning, and Ethernet frame forwarding in Cisco Packet Tracer.
 
+- IPv4 addressing and subnetting
+- Layer 2 switching
+- ARP and ICMP analysis
+- Connectivity testing
+- Downloadable Packet Tracer lab
 
+[View the CCNA project](https://github.com/Juniorklb/Ccna-switched-lan-packet-analysis)
 
-[linkedin]: https://linkedin.com/in/Juniorkalomba
+### Active Directory and Group Policy
 
+Configured department-based users, groups, Organizational Units, and Group Policy settings for a controlled Windows domain environment.
 
+[View the Active Directory GPO project](https://github.com/Juniorklb/Active-directory-GPO)
+
+### Remote Desktop Services
+
+Configured Windows Server Remote Desktop Services components to provide centralized remote access in a lab environment.
+
+[View the RDS project](https://github.com/Juniorklb/RDS)
+
+### Azure Network Protocols and Security
+
+Used Azure virtual machines and Network Security Groups to observe and control network traffic across common protocols.
+
+[View Azure network protocols](https://github.com/Juniorklb/azure-network-protocols) · [View Network Security Groups](https://github.com/Juniorklb/Network-Security-Groups)
+
+---
+
+## AI Venture
+
+### StayFlow AI
+
+StayFlow AI explores practical AI automation for service businesses. I am developing simple systems that help businesses reduce repetitive work, respond to customers faster, and manage operational workflows more efficiently.
+
+[Visit StayFlow AI](https://stayflowai.ca/)
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Systems administration | Windows Server 2022, Active Directory, GPO, DNS, DHCP, RDS, Hyper-V |
+| Networking | TCP/IP, IPv4, subnetting, Layer 2 switching, VLAN fundamentals, Cisco Packet Tracer |
+| Cloud | Microsoft Azure, Azure Virtual Machines, Network Security Groups, IAM, RBAC |
+| Security | Access control, firewalls, VPNs, log analysis, network traffic analysis |
+| Support | Microsoft 365, workstation setup, account support, printer troubleshooting, documentation |
+| Tools | PowerShell, Linux, Git, GitHub, Python, SQL, HTML, CSS, JavaScript |
+
+---
+
+## Certifications
+
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/SKOVKYASX5V5)
+- [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Z38RFC59NE5S)
+- Cisco CCNA — In progress
+- Microsoft Azure Administrator Associate (AZ-104) — In progress
+
+---
+
+## Current Focus
+
+- Preparing for the Cisco CCNA
+- Building Microsoft Azure administration skills for AZ-104
+- Expanding hands-on infrastructure and cloud-security projects
+- Developing AI automation solutions for service businesses
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/junior-kalomba-10002a18a/)
+- [Portfolio](https://juniorkalomba.netlify.app/)
+- [StayFlow AI](https://stayflowai.ca/)
+- Email: [jrkalomba@gmail.com](mailto:jrkalomba@gmail.com)
